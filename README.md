@@ -18,7 +18,7 @@
 C • Rust • TypeScript • JavaScript • Python  
 
 **Frameworks / Libraries:**  
-React • Next.js • Express • Tailwind CSS  • Redis • React-Redux
+React • Next.js • Express • Tailwind CSS • Nest.js  • Redis • React-Redux
 
 **Tools:**  
 Linux • Git • Docker • Nginx • VS Code • 
