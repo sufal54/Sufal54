@@ -21,13 +21,13 @@
 C • Rust • TypeScript • JavaScript • Python  
 
 **Frameworks / Libraries:**  
-React • Next.js • Express • Tailwind CSS • Nest.js  • Redis • React-Redux
+React • Next.js • Express • Tailwind CSS • Nest.js  • Redis • React-Redux • GraphQL
 
 **Tools:**  
 Linux • Git • Docker • Nginx • VS Code • 
 
 **Databases:**  
-MongoDB • SQL  
+MongoDB • MySQL  
 
 ---
 
