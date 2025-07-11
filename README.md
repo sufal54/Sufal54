@@ -3,7 +3,9 @@
 <!-- This is a hidden comment 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufal54&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
-
+[![Sufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufal54&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufal54)  
+![trophy](https://github-profile-trophy.vercel.app/?username=sufal54&theme=onedark)
 ---
 
 ### 🚀 Highlight Projects
