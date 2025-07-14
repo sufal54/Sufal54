@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufal Bala</h1>
 <h3 align="center">A Software Engineer from India ❤️ Passionate about solving problems and creating solutions</h3>
 This is a hidden comment 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufal54&label=Profile%20views&color=0e75b6&style=flat"/> </p> 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufal54&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
 
 ---
@@ -34,12 +34,12 @@ MongoDB • MySQL
 ### 📈 GitHub Stats
 
 <p align="center">
-  <!-- This is a hidden comment 
+  This is a hidden comment 
   <img src="https://github-readme-stats.vercel.app/api?username=sufal54&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufal54&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  -->
+  yo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufal54&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
