@@ -22,7 +22,7 @@ This is a hidden comment
 
 🔐 WhispChat — A private and secure chat application focusing on encryption and anonymity.WhispChat** — A private and secure chat application  
 
-💡 Don’t judge a book by its cover—similarly, don’t judge a project by contribution graphs or commit counts. What truly matters is structure, design, and code efficiency.
+> 💡 Don’t judge a book by its cover—similarly, don’t judge a project by contribution graphs or commit counts. What truly matters is structure, design, and code efficiency.
 ---
 
 ### 🛠️ Tech Stack
