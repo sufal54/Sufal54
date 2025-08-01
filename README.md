@@ -8,11 +8,21 @@ This is a hidden comment
 
 ### 🚀 Highlight Projects
 
-- 🐝 **Honeycomb** — A lightweight RESTful library like Express.js  
-- 🧠 **Moco** — A compiled programming language (in development)  
-- 🎧 **SonicSport** — An online music streaming website  
-- 🔐 **WhispChat** — A private and secure chat application  
+🌀 Glote — A simple and efficient HTTP RESTful library written in Rust, designed to offer Express.js-like simplicity.
 
+🍯 Honeycomb — A lightweight and modular RESTful library inspired by Express.js, focused on clean and minimal APIs.
+
+📦 JacksDB — A BSON-based database built with MongoDB-like structure and time complexity, optimized for embedded or lightweight usage.
+
+🧪 Gluto — A browser-based isolated code runner, ideal for safe and instant code execution in sandboxed environments.
+
+🧠 Moco — A compiled programming language currently in development, designed for performance and expressiveness.
+
+🎧 SonicSport — A modern online music streaming platform with an intuitive and responsive user interface.
+
+🔐 WhispChat — A private and secure chat application focusing on encryption and anonymity.WhispChat** — A private and secure chat application  
+
+💡 Don’t judge a book by its cover—similarly, don’t judge a project by contribution graphs or commit counts. What truly matters is structure, design, and code efficiency.
 ---
 
 ### 🛠️ Tech Stack
