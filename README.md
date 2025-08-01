@@ -16,8 +16,6 @@ This is a hidden comment
 
 🧪 Gluto — A browser-based isolated code runner, ideal for safe and instant code execution in sandboxed environments.
 
-🧠 Moco — A compiled programming language currently in development, designed for performance and expressiveness.
-
 🎧 SonicSport — A modern online music streaming platform with an intuitive and responsive user interface.
 
 🔐 WhispChat — A private and secure chat application focusing on encryption and anonymity.WhispChat** — A private and secure chat application  
