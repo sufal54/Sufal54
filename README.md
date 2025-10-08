@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from India ❤️ Passionate about solving problems and creating solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufal54&label=Profile%20views&color=0e75b6&style=flat"/> </p> 
-
+[![npm version](https://badge.fury.io/js/axiodb.svg)](https://badge.fury.io/js/axiodb)
 
 ---
 
