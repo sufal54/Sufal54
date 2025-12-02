@@ -22,19 +22,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-C • Rust • TypeScript • JavaScript • Python  
+### 🚨 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=rust" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+</p>
 
-**Frameworks / Libraries:**  
-React • Next.js • Express • Tailwind CSS • Nest.js  • Redis • React-Redux • GraphQL
+### 📦 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+</p>
 
-**Tools:**  
-Linux • Git • Docker • Nginx • VS Code • 
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" />
+</p>
 
-**Databases:**  
-MongoDB • MySQL  
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+</p>
 
 ---
 
