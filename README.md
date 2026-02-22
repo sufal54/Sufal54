@@ -33,12 +33,53 @@ let me = Engineer {
 ```
 
 I build core software infrastructure from scratch, including databases, runtimes, backend systems, and developer tools.
-* I focus on:
+I focus on:
 - ⚡ Performance
 - 🧠 Architecture
 - 🐧 Linux systems
 - 🦀 Rust engineering
 - 🔬 Low-level systems
+---
+
+### 🎯 What I Focus On
+<details> <summary><b>📦 Database Internals</b></summary>
+
+Binary storage formats (BSON-like)
+
+Indexing & file-based persistence
+
+Query execution paths
+
+Memory vs disk tradeoffs
+
+Zero-dependency design
+
+</details> <details> <summary><b>🌐 Backend & Networking</b></summary>
+
+HTTP servers from scratch
+
+Custom routing engines
+
+Middleware pipelines
+
+TCP / socket-level understanding
+
+Concurrency models
+
+</details> <details> <summary><b>🧠 Systems Programming</b></summary>
+
+Linux system calls
+
+File I/O internals
+
+Thread pools & schedulers
+
+Locking & concurrency primitives
+
+Performance profiling
+
+</details>
+
 ---
 
 ### 🚀 Flagship Projects
