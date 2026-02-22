@@ -44,61 +44,84 @@ I focus on:
 ### 🎯 What I Focus On
 <details> <summary><b>📦 Database Internals</b></summary>
 
-Binary storage formats (BSON-like)
+- Binary storage formats (BSON-like)
 
-Indexing & file-based persistence
+- Indexing & file-based persistence
 
-Query execution paths
+- Query execution paths
 
-Memory vs disk tradeoffs
+- Memory vs disk tradeoffs
 
-Zero-dependency design
+- Zero-dependency design
 
 </details> <details> <summary><b>🌐 Backend & Networking</b></summary>
 
-HTTP servers from scratch
+- HTTP servers from scratch
 
-Custom routing engines
+- Custom routing engines
 
-Middleware pipelines
+- Middleware pipelines
 
-TCP / socket-level understanding
+- TCP / socket-level understanding
 
-Concurrency models
+- Concurrency models
 
 </details> <details> <summary><b>🧠 Systems Programming</b></summary>
 
-Linux system calls
+- Linux system calls
 
-File I/O internals
+- File I/O internals
 
-Thread pools & schedulers
+- Thread pools & schedulers
 
-Locking & concurrency primitives
+- Locking & concurrency primitives
 
-Performance profiling
+- Performance profiling
 
 </details>
 
+
 ---
 
-### 🚀 Flagship Projects
-📦 JacksDB — Database Engine (Rust)
-Custom embedded database engine built from scratch.
-Core Features
-• BSON binary storage
-• File-based persistence
-• Efficient read/write operations
-• Lightweight and fast
-• Zero external dependency
+# 🚀 Flagship Projects
 
+## 📦 JacksDB — Embedded Database Engine (Rust)
+
+Custom database engine built entirely from scratch
+
+<details> <summary><b>Core Features</b></summary>
+
+- 📁 File-based persistence
+
+- 🧬 BSON-style binary storage
+
+- ⚡ Efficient read/write operations
+
+- 🧹 Garbage collection
+
+- 🔐 Zero external dependencies
+
+- 🦀 Written in pure Rust
+
+</details>
 🌐 Glote — HTTP Framework (Rust)
-Express-like backend framework built from scratch.
-Core Features
-• Custom routing engine
-• Middleware support
-• Async handling
-• Lightweight architecture
+
+- Express-inspired backend framework without dependencies
+
+<details> <summary><b>Core Features</b></summary>
+
+- 🛣️ Custom routing engine
+
+- 🧩 Middleware support
+
+- ⚙️ Async request handling
+
+- 🧵 Worker-pool based concurrency
+
+- 🪶 Lightweight & fast
+
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
