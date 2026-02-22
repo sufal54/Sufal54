@@ -85,7 +85,7 @@ I focus on:
 
 # 🚀 Flagship Projects
 
-## 📦 JacksDB — Embedded Database Engine (Rust)
+## 📦 JacksDB — Embedded Database Engine (Node js)
 
 Custom database engine built entirely from scratch
 
@@ -104,7 +104,7 @@ Custom database engine built entirely from scratch
 - 🦀 Written in pure Rust
 
 </details>
-🌐 Glote — HTTP Framework (Rust)
+## 🌐 Glote — HTTP Framework (Rust)
 
 - Express-inspired backend framework without dependencies
 
@@ -124,44 +124,15 @@ Custom database engine built entirely from scratch
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚨 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c" height="45" />
-  <img src="https://skillicons.dev/icons?i=rust" height="45" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-</p>
-
-### 📦 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="45" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" height="45" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-</p>
+# 🛠️ Tech Stack
+## 🚨 Languages
+<p> <img src="https://skillicons.dev/icons?i=c" height="45" /> <img src="https://skillicons.dev/icons?i=rust" height="45" /> <img src="https://skillicons.dev/icons?i=ts" height="45" /> <img src="https://skillicons.dev/icons?i=js" height="45" /> <img src="https://skillicons.dev/icons?i=python" height="45" /> </p>
+## 📦 Frameworks & Libraries
+<p> <img src="https://skillicons.dev/icons?i=react" height="45" /> <img src="https://skillicons.dev/icons?i=nextjs" height="45" /> <img src="https://skillicons.dev/icons?i=express" height="45" /> <img src="https://skillicons.dev/icons?i=nestjs" height="45" /> <img src="https://skillicons.dev/icons?i=tailwind" height="45" /> <img src="https://skillicons.dev/icons?i=redux" height="45" /> <img src="https://skillicons.dev/icons?i=graphql" height="45" /> <img src="https://skillicons.dev/icons?i=redis" height="45" /> </p>
+## 🧰 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=linux" height="45" /> <img src="https://skillicons.dev/icons?i=docker" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> <img src="https://skillicons.dev/icons?i=nginx" height="45" /> <img src="https://skillicons.dev/icons?i=vscode" height="45" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="45" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb" height="45" /> <img src="https://skillicons.dev/icons?i=mysql" height="45" /> </p>
 
 ---
 
@@ -179,16 +150,7 @@ Custom database engine built entirely from scratch
 
 ---
 
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sufal-bala-b404242a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:sufalbala29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.instagram.com/sufalbala74?igsh=MTNtbWEwYzRqd3Bk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</p>
+# 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sufal54&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufal54&theme=tokyonight" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufal54&layout=compact&theme=tokyonight" /> </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/sufal-bala-b404242a9"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sufalbala29@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/sufalbala74"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/> </a> </p>
