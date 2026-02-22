@@ -31,23 +31,33 @@ let me = Engineer {
     ]
 };
 ```
+
+I build core software infrastructure from scratch, including databases, runtimes, backend systems, and developer tools.
+I focus on:
+⚡ Performance
+🧠 Architecture
+🐧 Linux systems
+🦀 Rust engineering
+🔬 Low-level systems
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Flagship Projects
+📦 JacksDB — Database Engine (Rust)
+Custom embedded database engine built from scratch.
+Core Features
+• BSON binary storage
+• File-based persistence
+• Efficient read/write operations
+• Lightweight and fast
+• Zero external dependency
 
-🌀 Glote — A simple and efficient HTTP RESTful library written in Rust, designed to offer Express.js-like simplicity.
-
-🍯 Honeycomb — A lightweight and modular RESTful library inspired by Express.js, focused on clean and minimal APIs.
-
-📦 JacksDB — A BSON-based database built with MongoDB-like structure and time complexity, optimized for embedded or lightweight usage.
-
-🧪 Gluto — A browser-based isolated code runner, ideal for safe and instant code execution in sandboxed environments.
-
-🎧 SonicSport — A modern online music streaming platform with an intuitive and responsive user interface.
-
-🔐 WhispChat — A private and secure chat application focusing on encryption and anonymity.WhispChat** — A private and secure chat application  
-
-
+🌐 Glote — HTTP Framework (Rust)
+Express-like backend framework built from scratch.
+Core Features
+• Custom routing engine
+• Middleware support
+• Async handling
+• Lightweight architecture
 ---
 
 ## 🛠️ Tech Stack
