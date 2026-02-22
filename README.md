@@ -1,8 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sufal Bala</h1>
-<h3 align="center">A Software Engineer from India ❤️ Passionate about solving problems and creating solutions</h3>
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufal%20Bala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufal54&label=Profile%20views&color=0e75b6&style=flat"/> </p> 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;Database+Engine+Developer;Rust+%7C+Linux+%7C+Backend+Engineer;Building+Software+From+First+Principles;Infrastructure+%7C+Networking+%7C+Performance" />
+</p>
 
+---
+
+# 👨‍💻 About Me
+
+```rust
+struct Engineer {
+    name: &'static str,
+    role: &'static str,
+    focus: [&'static str; 5],
+}
+
+let me = Engineer {
+    name: "Sufal Bala",
+    role: "Systems Engineer",
+    focus: [
+        "Database Engines",
+        "Backend Infrastructure",
+        "Linux Systems",
+        "Networking",
+        "High Performance Software"
+    ]
+};
+```
 ---
 
 ### 🚀 Highlight Projects
