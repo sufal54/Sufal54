@@ -33,12 +33,12 @@ let me = Engineer {
 ```
 
 I build core software infrastructure from scratch, including databases, runtimes, backend systems, and developer tools.
-I focus on:
-⚡ Performance
-🧠 Architecture
-🐧 Linux systems
-🦀 Rust engineering
-🔬 Low-level systems
+* I focus on:
+- ⚡ Performance
+- 🧠 Architecture
+- 🐧 Linux systems
+- 🦀 Rust engineering
+- 🔬 Low-level systems
 ---
 
 ### 🚀 Flagship Projects
